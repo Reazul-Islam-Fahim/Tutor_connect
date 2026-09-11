@@ -1,7 +1,6 @@
 # TutorConnect (Flutter)
 
-A Flutter port of the TutorConnect high-fidelity prototype (originally built as a
-Figma Make React/TypeScript app) — a mobile app for university students to find a
+A Flutter port of the TutorConnect high-fidelity prototype — a mobile app for university students to find a
 tutor, book a session, and manage their bookings.
 
 ## Getting started
