@@ -39,7 +39,7 @@ connected device) via **Run ▸ Run 'main.dart'**, or from the command line with
   tablets/large screens while staying fluid edge-to-edge on phones, mirroring the
   original design's 430px mobile-frame convention without hardcoding it.
 
-## What's implemented vs. not (per the Assessment 4 brief)
+## What's implemented vs. not 
 
 **Fully implemented (Tier 1):**
 1. **Tutor Discovery** — Find Tutor's subject chips and search field carry real
