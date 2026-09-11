@@ -1,0 +1,35 @@
+name: tutor_connect
+description: "TutorConnect – find a tutor, book a session, manage your bookings."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management
+  flutter_riverpod: ^2.5.1
+
+  # Declarative routing (mirrors the original Screen enum + navigate() model)
+  go_router: ^14.2.0
+
+  # Matches the original design's Outfit (display) + Inter (body) typefaces
+  google_fonts: ^6.2.1
+
+  # Recreates the exact Lucide/Feather icon set used in the Figma Make source
+  lucide_icons: ^0.257.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/images/
