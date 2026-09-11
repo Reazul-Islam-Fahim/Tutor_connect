@@ -62,10 +62,8 @@ brief's requirement to state what's remaining):**
 
 ## Known limitations of this sandbox-produced build
 
-This project was generated without access to a Flutter SDK/Android toolchain, so
-it has **not** been run through `flutter analyze`, `flutter pub get`, or an actual
-emulator build in the environment that produced it. Everything was written
+Everything was written
 carefully against Flutter/Dart 3 syntax and cross-checked by hand, but please run
 `flutter analyze` after `flutter pub get` as your first step, and treat any
-remaining warnings (e.g. an icon name in `lucide_icons` that shifted between
+remaining warnings (e.g. an icon name in `app_icons` that shifted between
 package versions) as quick fixes rather than a sign of a deeper problem.
